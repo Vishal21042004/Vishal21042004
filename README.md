@@ -1,76 +1,69 @@
-<!-- 🚀 Vishal Kadalagi - GitHub Profile README -->
-
-<h1 align="center">Hi 👋, I'm Vishal Kadalagi</h1>
-<p align="center">🚀 A passionate frontend developer from India</p>
-
----
-
-### 💼 Work  
-🔭 I’m currently working on **[Project Name](project-link)**  
-👯 I’m looking to collaborate on **[Project Name](project-link)**  
-🤝 I’m looking for help with **[Project Name](project-link)**  
-
----
-
-### 📚 Learning  
-🌱 Currently learning **React, Vue, GSAP & Advanced Web Technologies**  
-💬 Ask me about **Frontend Development, UI/UX & Performance Optimization**  
-
----
-
-### 📫 Connect with Me  
-📩 Reach me at: **[example@gmail.com](mailto:example@gmail.com)**  
-👨‍💻 All my projects are available at **[Portfolio](portfolio-link)**  
-📝 I write about tech at **[My Blog](blog-link)**  
-📄 Know more about my experience: **[Resume](resume-link)**  
-
----
-
-### ⚡ Fun Fact  
-💡 I think I am funny 😄  
-
----
-
-## 🛠 Skills  
-
-### 💻 Programming Languages  
-![C](https://img.shields.io/badge/-C-0A0F24?style=flat-square&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-0A0F24?style=flat-square&logo=c%2B%2B&logoColor=blue)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-0A0F24?style=flat-square&logo=javascript&logoColor=yellow)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-0A0F24?style=flat-square&logo=typescript&logoColor=blue)  
-![Python](https://img.shields.io/badge/-Python-0A0F24?style=flat-square&logo=python&logoColor=yellow)  
-
-### 🎨 Frontend Development  
-![React](https://img.shields.io/badge/-React-0A0F24?style=flat-square&logo=react&logoColor=blue)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-0A0F24?style=flat-square&logo=vue.js&logoColor=green)  
-![HTML5](https://img.shields.io/badge/-HTML5-0A0F24?style=flat-square&logo=html5&logoColor=orange)  
-![CSS3](https://img.shields.io/badge/-CSS3-0A0F24?style=flat-square&logo=css3&logoColor=blue)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0A0F24?style=flat-square&logo=tailwind-css&logoColor=blue)  
-
-### 🛠 Backend Development  
-![Node.js](https://img.shields.io/badge/-Node.js-0A0F24?style=flat-square&logo=node.js&logoColor=green)  
-![Express.js](https://img.shields.io/badge/-Express.js-0A0F24?style=flat-square&logo=express&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-0A0F24?style=flat-square&logo=django&logoColor=green)  
-
-### 📂 Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-0A0F24?style=flat-square&logo=mongodb&logoColor=green)  
-![MySQL](https://img.shields.io/badge/-MySQL-0A0F24?style=flat-square&logo=mysql&logoColor=blue)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0A0F24?style=flat-square&logo=postgresql&logoColor=blue)  
-
-### ☁ DevOps & Cloud  
-![AWS](https://img.shields.io/badge/-AWS-0A0F24?style=flat-square&logo=amazon-aws&logoColor=yellow)  
-![Docker](https://img.shields.io/badge/-Docker-0A0F24?style=flat-square&logo=docker&logoColor=blue)  
-![Firebase](https://img.shields.io/badge/-Firebase-0A0F24?style=flat-square&logo=firebase&logoColor=yellow)  
-
----
-
-## 📊 GitHub Stats  
+<h1 align="center">
+  🚀 Vishal Kadalagi 🚀  
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkadalagi&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalkadalagi&show_icons=true&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Full+Stack+Developer;Machine+Learning%20Enthusiast;Backend%20%7C%20DBMS%20%7C%20Firebase;Passionate%20Coder%20%26%20Tech%20Explorer" />
 </p>
 
 ---
 
-🌟 **Keep Learning, Keep Building!** 🚀  
+## 📫 **Connect with Me**  
+<p align="center">
+  <a href="mailto:vishalkadalagi2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:02fe23bcs431@kletech.ac.in">
+    <img src="https://img.shields.io/badge/KLE%20Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vishal-kadalagi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/vishal_k01/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠 **Tech Stack**
+### ⚡ **Programming Languages**
+<p align="center">
+  <img src="https://progress-bar.dev/85/?title=C++&color=blue" width="150px" />  
+  <img src="https://progress-bar.dev/70/?title=C&color=green" width="150px" />  
+  <img src="https://progress-bar.dev/50/?title=Python&color=yellow" width="150px" />
+</p>
+
+---
+
+## 🌍 **Full Stack & Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+## 🚀 **Projects**
+🔗 **Check out all my projects here:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishal-Kadalagi?tab=repositories)
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vishal-Kadalagi&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Kadalagi&theme=tokyonight" />
+</p>
+
+---
+
+## 🌟 **Fun Fact**
+> **_"Code is like humor. When you have to explain it, it’s bad."_** 😆
+
+---
+
+## ☕ **Support Me**
+If you like my work, consider buying me a coffee ☕  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F49E00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/VishalKadalagi)
