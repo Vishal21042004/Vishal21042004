@@ -28,9 +28,9 @@
 ## 🛠 **Tech Stack**
 #### ⚡ **Programming Languages**
 <p>
-  <img src="https://img.shields.io/badge/Python-50%25-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-70%25-red?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-85%25-purple?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-red?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 #### 🌍 **Full Stack Development**
@@ -64,13 +64,11 @@
 
 ---
 
-
 ## 📊 **GitHub Stats**
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vishal21042004&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal21042004&theme=tokyonight" />
 </p>
-
 
 ---
 
